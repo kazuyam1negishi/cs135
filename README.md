@@ -1,3 +1,3 @@
-# cs135
+# CS135 Archive - Computer Science I
 
-This is an archive of my work and any accompanying files for CS135 (fall 2022).
+This is an archive of my work from CS135 (fall 2022).
